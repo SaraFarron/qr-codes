@@ -1,3 +1,7 @@
 venv
 .vscode
 .idea
+build
+*.spec
+dist
+__pycache__
